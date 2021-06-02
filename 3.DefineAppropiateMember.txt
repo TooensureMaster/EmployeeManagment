@@ -1,0 +1,54 @@
+
+
+1) Employee
+	
+	| Encapsulation |
+	1.1) Name (Last name, first name, Middle initial)
+	1.2) Address (Physical Address, mailing address)
+	1.3) DOB (Month/day/yeay)
+	1.4) Last 4 SSN (####)
+	1.5) Labor Wage (Wage per hour)
+	1.6) Title (Occupation)
+	1.7) Hire date
+	1.8) Unemployee Date
+
+	| ABSTRACTION |
+	1.9) Cost of living 
+
+	Validate()
+	Retrevie()
+	Save()
+
+2.) Activity
+
+	| Encapsulation |
+	2.1) List of take (task)
+	2.2) Required Break (Brake time in minites)
+	2.3) Extra tasks (task done out of position range)
+		2.0.0) Employee
+
+	Validate()
+	Retrevie()
+	Save()
+
+3.) Payroll
+
+	| Encapsulation |
+	3.1) Pay period (weekly, bi-weekly, monthly)
+	3.2) Pay Deductions (SSI, Health, taxes)
+	3.3) Print PDF
+		3.0.1) Employee
+		3.0.1) Activity
+
+	Validate()
+	Retrevie()
+	Save()
+
+4.) Task
+
+	4.1) Position Title
+	4.2) Positon Task
+
+	Validate()
+	Retrevie()
+	Save()

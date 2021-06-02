@@ -1,0 +1,10 @@
+
+It'll manage business Employees, tracking the amount of hours worked and wage per hr/min/sec.
+
+It'll be responsible for tracking if employee have worked overtime, there position annd if burt out to prevent business high turn over rate.
+
+It'll create payroll PDF files and caculate taxes at its best but starting off its important to manange the employee activity with in the business.
+
+It'll track business task and if employee have complete thier tasks.
+
+

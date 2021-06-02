@@ -1,0 +1,15 @@
+
+
+Starting with the Nouns
+
+1) Employee
+
+The "Employee" class manages the employees within business.
+
+2) Activity
+
+The "Activity" class manages the active state of the employee.
+
+3) Payroll
+
+The "Payroll" class manages financing the employee for the labor work within the business.
